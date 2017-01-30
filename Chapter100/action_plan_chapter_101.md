@@ -30,7 +30,7 @@ Methods
       * Can potentially trade technolgoy with Leaf for favors
       
   * Supporting Information:
-    * Zeppelins
+    * [Zeppelins](http://markedfordeath.wikia.com/wiki/Zeppelin)
   * Potential Issues:
     * Safety of being on a floating platforming with a fire overhead.
     * Possible detection of our research and development effort.
