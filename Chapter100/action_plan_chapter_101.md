@@ -20,8 +20,22 @@ Methods
 
 **Scene One**
 
-**Scene Two**
+**Scene Two**: Project Zeppelin
 
+* Goal: We want an easy, reliable, stealthy, and safe method of long distance travel.
+  * Steps:
+    * Bring up the idea with the team, including why it's useful.
+      * Demonstrate a sky lantern from home.
+      * Long distance travel that is easily sustained, fast, direct, and hard to detect.
+      * Can potentially trade technolgoy with Leaf for favors
+      
+  * Supporting Information:
+    * Zeppelins
+  * Potential Issues:
+    * Safety of being on a floating platforming with a fire overhead.
+    * Possible detection of our research and development effort.
+    * Lack of required raw material.
+    
 **Scene Three: Keiko's Gift**
 
 
