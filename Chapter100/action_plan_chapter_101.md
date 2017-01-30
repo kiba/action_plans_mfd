@@ -1,3 +1,5 @@
+[Link](https://forums.sufficientvelocity.com/posts/7785509/)
+
 [X] Action Plan: Full of Hot Air
 
 Overview
