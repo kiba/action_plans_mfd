@@ -1,3 +1,5 @@
+[Link](https://forums.sufficientvelocity.com/posts/7785509/)
+
 [X] Action Plan: Full of Hot Air
 
 Overview
@@ -23,44 +25,48 @@ Methods
 * Goal: Finish developing the skywalker tech.
 * Steps:
     * Develop a finished version in which adhesion activates the seal.
-    * Test for Safety
-      * Brainstorm with Kagome about how skywalkers might kill and maim us.
-      * Test failure cases
-        * May need captured animals for "demonstration" purposes.
-        * Use clones for testing.
-        * Some cases may include but not only: 
-          * Falling really fast when activated.
-          * One or both seals ceased to function.
-          * Seals may be damaged during movement (e.g., through movement or substances in the atmosphere).
-      * Outline safety protocols for using the skywalkers.
-      * Develop solutions for failure cases, when applicable.
-* Supporting Information:
-* Potential Issues:
+    * If applicable, implement design change to make the Skywalker Seals more resilient to failure mode.
+    * Develop safety protocol for using the skywalker.
+  * Supporting Information:
+    * Kagome and Hazou will brainstorm ways that the skywalker seal can main and kill users.
+    * Clones will be used for testing.
+    * Animal subjects may be procurred for "demonstration" purpose. 
+      * Animals will be restrained and tied to the clone doing the testing.
+      * Models for kind of injuries that might occur using failure mode.
+    * Some Test Failure Cases
+      * Falling at a fatal velocity before activation.
+      * One of both seals ceased to function in midair(duration testing)
+      * Using the skywalkers in bad weather.
+      * Seals may be damaged during movement (e.g., through movement or substances in the atmosphere).
+    * Safety ideas:
+      * Protective covering for the seals.
+      * Extra Air Dome seals.
+  * Potential Issues:
     * The team might not like animal cruelty.
     * Might take too long before the next mission/Keiko's birthday.
+    * They might think it's a waste of food.
 
 
 **Scene Two**: Project Zeppelin
 
-* Goal: We want an easy, reliable, stealthy, and safe method of long distance travel.
-* Steps:
-    * Bring up the idea with the team, including why it's useful.
-      * Remind the team of sky lanterns from back home.
-      * Tell team ancedotes and inspirations, such as the jump.
-      * Long distance travel that is easily sustained, fast, direct, and hard to detect.
-      * Can potentially trade technology with Leaf for favors
+  * Goal: We want an easy, reliable, stealthy, and safe method of long distance travel.   
+  * Steps:
+    * Bring up the idea with the team, including why it's useful
     * Outline potential seals that could help out with the project.
-* Supporting Information:
+    * If team approves, start working on the project.  
+  * Supporting Information:
     * [Zeppelins](http://markedfordeath.wikia.com/wiki/Zeppelin)
-* Potential Issues:
-    * See the wiki article for some countermeasures and solutions that was proposed.
-    * Safety of being on a floating platform with a fire overhead.
-      * Tunneler's Friend could be used to store heat.
-      * Develop a heating seal?
-    * Possible detection of our research and development effort.
-      * Do small prototypes and proof of concepts first before leaping on to a full-scale prototype.
-    * Lack of required raw material.
-      * Buy from shops in Yuni?
+    * Remind the team of festival lanterns that floated into the air.
+    * Tell team ancedotes and inspirations, such as the jump.
+    * Reasons why it is a good idea.
+      * Make border crossing easier.
+      * Can be used for long distance travel.
+      * Open up trade for the merchant network and the elemental nations.
+  * Potential Issues:
+    * See the wiki article on the Zeppelin.
+    * The team might be dismissive.
+    * They might restrain Hazou from developing his idea.
+
       
     
 **Scene Three: Keiko's Gift**
