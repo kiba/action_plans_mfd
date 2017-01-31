@@ -27,7 +27,7 @@ Methods
     * Develop a finished version in which adhesion activates the seal.
     * If applicable, implement design change to make the Skywalker Seals more resilient to failure mode.
     * Develop safety protocol for using the skywalker.
-  * Supporting Information:
+* Supporting Information:
     * Kagome and Hazou will brainstorm ways that the skywalker seal can main and kill users.
     * Clones will be used for testing.
     * Animal subjects may be procurred for "demonstration" purpose. 
@@ -41,7 +41,7 @@ Methods
     * Safety ideas:
       * Protective covering for the seals.
       * Extra Air Dome seals.
-  * Potential Issues:
+* Potential Issues:
     * The team might not like animal cruelty.
     * Might take too long before the next mission/Keiko's birthday.
     * They might think it's a waste of food.
