@@ -57,7 +57,7 @@ Methods
   * Supporting Information:
     * [Zeppelins](http://markedfordeath.wikia.com/wiki/Zeppelin)
     * Remind the team of festival lanterns that floated into the air.
-    * Tell team ancedotes and inspirations, such as the jump.
+    * Tell team anecdotes and inspirations, such as the jump.
     * Reasons why it is a good idea.
       * Make border crossing easier.
       * Can be used for long distance travel.
