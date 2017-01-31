@@ -23,11 +23,10 @@ Methods
 **Scene One**: Project [S]Skyhopper[/S] Skywalker
 
 * Goal: Finish developing the skywalker tech.
-  * Steps:
-    * Develop a finished version in which adhesion activate the seal.
-    * Test for Safety
-    * Implement solutions so that the Skywalker seals will fail last
-    * Develop safety protocol for using the skywalker
+* Steps:
+    * Develop a finished version in which adhesion activates the seal.
+    * If applicable, implement design change to make the Skywalker Seals more resilient to failure mode.
+    * Develop safety protocol for using the skywalker.
   * Supporting Information:
     * Kagome and Hazou will brainstorm ways that the skywalker seal can main and kill users.
     * Clones will be used for testing.
@@ -38,16 +37,19 @@ Methods
       * Falling at a fatal velocity before activation.
       * One of both seals ceased to function in midair(duration testing)
       * Using the skywalkers in bad weather.
+      * Seals may be damaged during movement (e.g., through movement or substances in the atmosphere).
     * Safety ideas:
       * Protective covering for the seals.
       * Extra Air Dome seals.
   * Potential Issues:
     * The team might not like animal cruelty.
+    * Might take too long before the next mission/Keiko's birthday.
     * They might think it's a waste of food.
+
 
 **Scene Two**: Project Zeppelin
 
-* Goal: We want an easy, reliable, stealthy, and safe method of long distance travel.
+  * Goal: We want an easy, reliable, stealthy, and safe method of long distance travel.   
   * Steps:
     * Bring up the idea with the team, including why it's useful
     * Outline potential seals that could help out with the project.
@@ -55,7 +57,7 @@ Methods
   * Supporting Information:
     * [Zeppelins](http://markedfordeath.wikia.com/wiki/Zeppelin)
     * Remind the team of festival lanterns that floated into the air.
-    * Tell story about how Hazou achieved the jump.
+    * Tell team ancedotes and inspirations, such as the jump.
     * Reasons why it is a good idea.
       * Make border crossing easier.
       * Can be used for long distance travel.
@@ -64,29 +66,46 @@ Methods
     * See the wiki article on the Zeppelin.
     * The team might be dismissive.
     * They might restrain Hazou from developing his idea.
+
       
     
 **Scene Three: Keiko's Gift**
 
+* Goal: We want Keiko to have a happy birthday.
+* Steps:
+    * Ask Inoue-sensei for help getting Pandaa on board (she's the only one stealthy enough to talk to him without Keiko noticing).
+    * Consider developing things for her:
+      * Advanced PMYF Macerators with payloads (for smokebombs, flashbangs, pepper spray).
+        * Note: We have to research making the Macerator seals with PMYF function.
+      * Pangolin carving.
+    * Get the team in on the plan.
+* Supporting Information:
+* Potential Issues
+    * We might fuck things up. We probably will, somehow.
+      * Talk to Inoue-sensei about Keiko's birthday first. Tell her our plan, make sure she agrees it won't fuck shit up.
+    * We might get called in for a mission.
+      * Make sure her birthday gifts are easy to give and won't be spoiled on the way.
 
 
 **Scene Four: Noburi and Medic Training:**
 
 * Goal: We want to help Noburi finish his medical training safely.
-* Step:
-  * Let Noburi know we are supportive of his ambitions as a medic-nin and that we want to help him on that path
-  * Discuss potential issues, and how we might address them
-  * Do NOT suggest Noburi should not go. Suggest that we should be extra cautious.
+* Steps:
+    * Let Noburi know we are supportive of his ambitions as a medic-nin and that we want to help him on that path
+    * Discuss potential issues, and how we might address them
+    * Do NOT suggest Noburi should not go. Suggest that we should be extra cautious.
 * Supporting Information:
-  * Bring up Noburi disguising his barrel as a travel sack or appropriate covering.
-    * Suggest Noburi obfuscate his movement through clever Henge use:
-      * Noburi + Inoue go to Hashimoto's.
+* Potential Issues
+    * Hashimoto might not want to teach Noburi
+      * Ask Noburi what things Hashimoto might want (ryo, Macerators...) and offer to help with getting these things.
+    * Hunter-nin might notice Noburi and/or his barrel.
+      * Bring up Noburi disguising his barrel as a travel sack or appropriate covering.
+      * Suggest Noburi obfuscate his movement through clever Henge use:
+        * Noburi + Inoue go to Hashimoto's.
           * When Noburi leaves, Inoue creates a Water Clone Henge'd as Noburi.
           * Inoue & clone leave.
           * Repeat when Noburi leaves (at a set time?).
-* Potential Issues
-  * Hashimoto might not want to teach Noburi
-    *  Ask Noburi what things Hashimoto might want (ryo, Macerators...) and offer to help with getting these things.
+
 
 Contingencies
 ===
