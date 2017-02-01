@@ -93,6 +93,8 @@ Methods
       * Bazooka: Longe range AoE weapon
          * Use a modified version of the unidirectional explosive seal to propel projectiles.
          * Barrel might not withstand object. Could be reinforced temporarily with 5SB.
+      * Gun: Smaller cousin, less collateral damage
+         * See the Bazooka for detail
       * Advanced PMYF Macerators with payloads (for smokebombs, flashbangs, pepper spray).
         * Note: We have to research making the Macerator seals with PMYF function.
 * Potential Issues
