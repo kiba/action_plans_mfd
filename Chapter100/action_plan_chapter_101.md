@@ -15,7 +15,7 @@ Overview
 
 **Assumptions**
 
-* We have about three or four weeks left before the next mission.
+* We probably have about three or four weeks left before the next mission.
 
 Methods
 ===
@@ -31,6 +31,7 @@ Methods
     * If applicable, implement design change to make the Skywalker Seals more resilient to failure mode.
     * Develop safety protocol for using the skywalker.
 * Supporting Information:
+    [spoiler]
     * Kagome and Hazou will brainstorm ways that the skywalker seal can main and kill users.
     * Clones will be used for testing.
     * Damage models.
@@ -51,6 +52,7 @@ Methods
       * How many seconds you can fall without dying.
       * How to use it safety.
       * How not to use it.
+    [/spoiler]
 * Potential Issues:
     * The team might not like the idea of doing animal testing
       * If that's the case. Just drop it.
@@ -65,6 +67,7 @@ Methods
     * Outline potential seals that could help out with the project.
     * If team approves, start working on the project.  
   * Supporting Information:
+    [spoiler]
     * [Zeppelins](http://markedfordeath.wikia.com/wiki/Zeppelin)
     * Remind the team of festival lanterns that floated into the air.
     * Tell team anecdotes and inspirations, such as the jump.
@@ -72,6 +75,13 @@ Methods
       * Make border crossing easier.
       * Can be used for long distance travel.
       * Open up trade for the merchant network and the elemental nations.
+    * Simplified development roadmap
+      * See the wiki for more info.
+      * Focus on the hot air method for now.
+      * Consider rigid frame variants, or contained ones that require less active heating.
+      * Outline potential seals for fancy variants
+      * Consider safety protocols for final use; should overlap with Skywalker rules
+    [/spoiler]
   * Potential Issues:
     * See the wiki article on the Zeppelin.
     * The team might be dismissive or look at Hazou as if he's crazy.
@@ -82,21 +92,27 @@ Methods
 * Goal: We want Keiko to have a happy birthday.
 * Steps:
     * Ask Inoue-sensei for help getting Pandaa on board (she's the only one stealthy enough to talk to him without Keiko noticing).
-    * Consider developing things for her:
-      
-      * Pangolin carving.
+    * Consider developing things for her. Talk with Kagome to pick projects.
     * Get the team in on the plan.
 * Supporting Information:
+   [spoiler]
    * Have the team/Kagome pick and choose projects
-      * Ideally, it should be the 
+      * Ideally, it should have the maxmium reward while still fast enough to develop in time for Keiko's birthday.
    * Seal ideas:
       * Bazooka: Longe range AoE weapon
          * Use a modified version of the unidirectional explosive seal to propel projectiles.
-         * Barrel might not withstand object. Could be reinforced temporarily with 5SB.
+         * If flexible material available, 5SB variant is feasible:
+            * This is to protect the barrel during firing.
+            * A separate flat platform from bazooka itself to allow quick sealing before shooting,
+            * Hang flexible frame inside rigid exoskeleton, with an excess square off bottom with the 5SB preplaced
+            * Need not be particularly gun-shaped or bazooka shape.
       * Gun: Smaller cousin, less collateral damage
          * See the Bazooka for detail
       * Advanced PMYF Macerators with payloads (for smokebombs, flashbangs, pepper spray).
         * Note: We have to research making the Macerator seals with PMYF function.
+      * [Poor Man's Shadow Clone Shuriken](https://forums.sufficientvelocity.com/threads/marked-for-death-a-rational-naruto-quest.24481/page-1563#post-7745502)
+      
+   [/spoiler]
 * Potential Issues
     * We might fuck things up. We probably will, somehow.
       * Talk to Inoue-sensei about Keiko's birthday first. Tell her our plan, make sure she agrees it won't fuck shit up.
