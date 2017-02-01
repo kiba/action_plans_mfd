@@ -1,5 +1,5 @@
-[Link To Forum Post](https://forums.sufficientvelocity.com/posts/7785509/)
-[Raw File](https://github.com/kiba/action_plans_mfd/raw/master/Chapter100/action_plan_chapter_101.md)
+* [Link To Forum Post](https://forums.sufficientvelocity.com/posts/7785509/)
+* [Raw File](https://github.com/kiba/action_plans_mfd/raw/master/Chapter100/action_plan_chapter_101.md)
 
 [X] Action Plan: Full of Hot Air
 
