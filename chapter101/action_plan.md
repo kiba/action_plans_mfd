@@ -40,3 +40,20 @@ Methods:
 
 Contingencies
 ===
+
+* We should already be ready to relocate at any time. 
+  * We should know where we are going to escape.
+  * We should have enough seal blanks for escape + mission.
+* Escape paths:
+   * Have traps set up so we can escape to the southwest river or the eastern coast (depending on the situation).
+   * More if Kagome-/Inoue-sensei say so.
+* Jiraiya calls us in:
+   * Figure out what country we're going to, then draft plans
+   * Will probably involve water/coastal routes
+   * Should be a good stopping point to end an update.
+* Pangolin stuff:
+   * Be polite and careful. Let Inoue-sensei or Keiko take the leads.
+   * Get ready for a mission. See the Jiraiya section.
+*  A wild ??? appears:
+   * End update if dangerous things start to happen
+   * Focus on opsec, for now.
