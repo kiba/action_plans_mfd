@@ -11,7 +11,8 @@ Goals:
 Methods:
 ===
 
-**Scene Inoue-sensei**
+### **Scene Inoue-sensei**
+
 
 * Steps:
   * Explain to her that it isn't her fault.
