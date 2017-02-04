@@ -65,14 +65,19 @@ Methods:
 
 ### Scene Gift for Keiko
 
-* Goal
-
+* Goal: give Something on Keiko's Birthday that she will like.
+* Steps:
+  * Brainstorm gift idea with the team.
+  * Build it.
+  * Gift it.
+* Suppporting Information:
+* Potential Issues:
 
 ### Scene: Sealing Projects
 
 * Goal: Finish Sealing project.
 * Steps:
-    * Finish the Skywalker project.
+    * Finish the Skywalker project. (including safety protocol, safety engineering, safety testing, etc)
     * Choose the next sealing project and work on that.
 * Supporting Information:
    * Have the team/Kagome pick and choose projects
@@ -90,6 +95,8 @@ Methods:
       * Advanced PMYF Macerators with payloads (for smokebombs, flashbangs, pepper spray).
         * Note: We have to research making the Macerator seals with PMYF function.
       * [Poor Man's Shadow Clone Shuriken](https://forums.sufficientvelocity.com/threads/marked-for-death-a-rational-naruto-quest.24481/page-1563#post-7745502)
+ * Potential Issues:
+ 
       
 Contingencies
 ===
