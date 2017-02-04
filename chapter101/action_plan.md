@@ -25,7 +25,7 @@ Methods:
   * Consider the political question from all angle.
   * State that the pro are pretty good.
   * Possible reasons why it isn't her fault:
-    * Out actions aren't her fault.
+    * Hazo's actions aren't her fault.
     * Without Mari's teachings and leadership, the entire team would have died horribly months ago.
       * Nobody on the team died.
       * Hazo's taijutsu style is based significantly off Mari's teaching and examples.
@@ -70,13 +70,15 @@ Methods:
 
 * Goal: We want to help Noburi finish his medical training safely.
 * Steps:
-    * Let Noburi know we are supportive of his ambitions as a medic-nin and that we want to help him on that path
+    * Let Noburi know that Hazo is supportive of his ambitions as a medic-nin and that we want to help him on that path
     * Discuss potential issues, and how we might address them
     * Do NOT suggest Noburi should not go. Suggest that we should be extra cautious.
 * Supporting Information:
 * Potential Issues
     * Hashimoto might not want to teach Noburi
       * Ask Noburi what things Hashimoto might want (ryo, Macerators...) and offer to help with getting these things.
+    * Hashimoto might reject Noburi completely no matter the rewards.
+      * Ask for referal to another medic-nin that the team could learn from.
     * Hunter-nin might notice Noburi and/or his barrel.
       * Bring up Noburi disguising his barrel as a travel sack or appropriate covering.
       * Suggest Noburi obfuscate his movement through clever Henge use:
