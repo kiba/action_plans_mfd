@@ -23,7 +23,7 @@ Methods:
   * If possible, conduct experiment.
 * Supporting Information:
   * It is not necessary for the QM to write out this scene, and may be skipped or omitted at QM's pleasure.
-  * The QM may inform of development.
+  * The QM may inform us of Hazo's ideas.
   * Notetaking is done in his spare time, not to interfere with missions and other duties.
   * Sapre time is most likely near bedtime or at dawn.
   * See [Science](http://markedfordeath.wikia.com/wiki/Science) for potential discoveries Hazo might make.
