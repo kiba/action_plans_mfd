@@ -19,10 +19,20 @@ Methods:
 * Steps:
   * Explain to her that it isn't her fault.
   * Analyze the "Join Konoha" question.
-  * Make a reply. No to Fire or Leaf citizenship. But willing to consider other angle.
+  * Make a reply: Will not commit to anything yet. Need more time.
 * Supporting Information:
-  * We want to consider the political question from all angle.
+  * Consider the political question from all angle.
   * State that the pro are pretty good.
+  * Possible reasons why it isn't her fault:
+    * Out actions aren't her fault.
+    * Without Mari's teachings and leadership, the entire team would have died horribly months ago.
+      * Nobody on the team died.
+      * Hazo's taijutsu style is based significantly off Mari's teaching and examples.
+      * Mari held the team together despite issues and troubles.
+    * Even if Leaf worked out, the team still need Mari.
+      * Emphasis famial or famial-relations, along with Mari-sensei's leadership and teacher status.
+      * She is needed to navigate the Leaf political landscape.
+   
   * Explain possible reasons why it might not be good.
     * Kagome will be anxious about returning to Konoha so soon.
     * Yagura will get mad
