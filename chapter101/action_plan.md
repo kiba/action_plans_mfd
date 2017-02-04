@@ -45,7 +45,6 @@ Methods:
   * State that the pro are pretty good.
   * Reasons why it isn't her fault:
     * Refer to her as Mari-sensei. 
-    * Demonstrate Hazou's Roki style to her (or spar if more appropriate). Show that the entire style is based off of her teachings.
     * List success of her teaching.
       * Showing Hazou how to lead subtly (e.g., when Noburi was leader).
       * Getting Hazou to test Liberator-nin via spars brought Akane into the group.
