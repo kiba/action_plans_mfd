@@ -115,13 +115,14 @@ Methods:
 
 ### Scene: Sealing Projects
 
-* Goal: Finish Sealing project.
+* Goal: Do more sealing research
 * Steps:
-    * Finish the Skywalker project. (including safety protocol, safety engineering, safety testing, etc)
+    * Finish the Skywalker project if it isn't already. (including safety protocol, safety engineering, safety testing, etc)
     * Choose the next sealing project and work on that.
 * Supporting Information:
    * Have the team/Kagome pick and choose projects
       * Ideally, it should have the maxmium reward while still fast enough to develop before the next mission.
+      * It should be within Hazo's skill level.
    * Seal ideas:
       * Bazooka: Longe range AoE weapon
          * Use a modified version of the unidirectional explosive seal to propel projectiles.
@@ -135,6 +136,10 @@ Methods:
       * Advanced PMYF Macerators with payloads (for smokebombs, flashbangs, pepper spray).
         * Note: We have to research making the Macerator seals with PMYF function.
       * [Poor Man's Shadow Clone Shuriken](https://forums.sufficientvelocity.com/threads/marked-for-death-a-rational-naruto-quest.24481/page-1563#post-7745502)
+      * The [Zeppelin Project](http://markedfordeath.wikia.com/wiki/Zeppelin).
+        * Do small scale prototype. Focus on hot air balloons.
+        * Make wind tunnels for testing and experimental control.
+        * Explain using ancedotes and examples such as the jump and sky lanterns.
  * Potential Issues:
  
       
