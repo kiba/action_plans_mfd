@@ -1,5 +1,6 @@
 [X] Action Plan: No Politics Please
 
+[Link to Plan Post.](https://forums.sufficientvelocity.com/posts/7811645/)
 
 Goals:
 ===
@@ -37,6 +38,9 @@ Methods:
       * Both of them really do care about their clans. Unlike us; we just care about mummy.
       * We have to run this with them anyway; if they don't accept we aren't doing it anyway.
 * Possible Issues:
+ * Inoue-sensei might get puzzled about the political analysis.
+ * Inoue-sensei might decide to kill us depending on our answer.
+  * Unlikely. Also, extremely silly.
 
 ### Scene Noburi
 
