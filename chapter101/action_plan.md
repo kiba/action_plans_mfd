@@ -16,7 +16,7 @@ Methods:
 
 ### Non-Scene Spare Time Hazo (COMPLETELY OPTIONAL)
 
-* Goal: To increase access for Hazo to hivemind's scientific knowledge to better acqure COSMIC POWER.
+* Goal: To increase access for Hazo to hivemind's scientific knowledge to better acquire COSMIC POWER.
 * Steps:
   * Begin taking notes on the natural world.
   * Ponder ideas about the nature of reality.
@@ -43,15 +43,26 @@ Methods:
 * Supporting Information:
   * Consider the political question from all angle.
   * State that the pro are pretty good.
-  * Possible reasons why it isn't her fault:
-    * Hazo's actions aren't her fault.
-    * Without Mari's teachings and leadership, the entire team would have died horribly months ago.
-      * Nobody on the team died.
-      * Hazo's taijutsu style is based significantly off Mari's teaching and examples.
-      * Mari held the team together despite issues and troubles.
-    * Even if Leaf worked out, the team still need Mari.
-      * Emphasis famial or famial-relations, along with Mari-sensei's leadership and teacher status.
-      * She is needed to navigate the Leaf political landscape.
+  * Reasons why it isn't her fault:
+    * Refer to her as Mari-sensei. 
+    * Demonstrate Hazou's Roki style to her (or spar if more appropriate). Show that the entire style is based off of her teachings.
+    * List success of her teaching.
+      * Showing Hazou how to lead subtly (e.g., when Noburi was leader).
+      * Getting Hazou to test Liberator-nin via spars brought Akane into the group.
+      * She was intelligent enough to engineer the game of ninja!Risk to improve relationships with the Konoha kids.
+      * Keeping the team together despite all of Hazou's screwups.
+    * Show how our screwup wasn't her fault:
+      * Point out her ability to manipulate everyone was such that Jiraiya wouldn't let her talk.
+      * No one is capable of predicting every response: Mari's not God/Kami and couldn't have predicted how utterly stupid we would be.
+    * We still need her.
+      * She's an amazing teacher.
+      * We need her help more than ever now.
+      * Even if we join Leaf, we'd still trust her to teach us.
+      * Even if she retires, she's still more than just our leader or just our teacher. She's family.
+    * Show affection
+      * Hazou know how much she cares about Hazou and the team.
+      * Hug her.
+      * Ruffle her hair (this time).
    
   * Explain possible reasons why it might not be good.
     * Kagome will be anxious about returning to Konoha so soon.
