@@ -28,13 +28,25 @@ Methods:
     * Yagura will get mad
       * Mist will go to war with Leaf, which we do not want.
       * OOC: Given the war that may or may not come soon, this may be a non-issue.
-    * We absolutely establish ourselves as an innovative, if not powerful, sealmaster.
-      * Leaf will take our threats very seriously, if they weren't before. A Freudian slip kills us horribly.
+    * Kagome and Hazo are innovative, if not dangerous, sealmasters.
+      * Leaf will take our threats very seriously, if they weren't before. A Freudian slip will likely kill us horribly.
+      * Hazo has zero political skills and little social grace.
     * Leaf may choose to take Skywalker seals and kill us to keep us from falling into enemy hands/betraying Konoha.
       * Staying in Konoha mitigates this somewhat.
       * The anti-us faction (who Jiraiya was pushing against) may try to assassinate us for this reason.
     * Leaf becomes absurdly more powerful because they gain (near-)undisputed aerial control.
       * Will making Leaf absurdly powerful help Hazou's dream?
+      * Won't prevent WW4 from breaking out.
+      * Won't guarantee a merciful Leaf.
+    * Leaf might not actually be all nice.
+      * Example: That Hyuga brat from team Gai
+      * Leaf showed us only what they want us to see.
+      * Leaf might have a dark underbelly that we did not get to see.
+    * Unexplored Options:
+      * Hidden Mountain: Keiko might has a way in as the Pangolin summoner.
+      * Bargaining for something else other than citizenship.
+      * Leave the EN altogether.
+      * Establishing Hidden Heaven
     * Mori and Wakahisa clans will hate Keiko and Noburi.
       * Both of them really do care about their clans. Unlike us; we just care about mummy.
       * We have to run this with them anyway; if they don't accept we aren't doing it anyway.
