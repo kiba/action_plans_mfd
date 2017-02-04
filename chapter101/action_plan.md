@@ -1,7 +1,8 @@
 [X] Action Plan: No Politics Please
 
 * [Link to Plan Post.](https://forums.sufficientvelocity.com/posts/7811645/)
-* [Link to Github Page.](https://github.com/kiba/action_plans_mfd/edit/master/chapter101/action_plan.md)
+* [Link to Github Page.](https://github.com/kiba/action_plans_mfd/blob/master/chapter101/action_plan.md)
+* [Edit this plan.](https://github.com/kiba/action_plans_mfd/edit/master/chapter101/action_plan.md)
 
 Goals:
 ===
