@@ -126,17 +126,13 @@ Methods:
   * Gift it.
 * Suppporting Information:
   * Gift Ideas:
-    * Make a drawing of badass things Keiko's done since we've first mets:
+    * Make a drawing of one to three scenes choosen from the list:
       * Cleanly decapitating the steelback back in Swampland.
       * Retrieving the Pangolin summoning scroll and becoming the Pangolin summoner.
       * Terrifying the shit out of the Irie and Hinago patrols.
       * Skewering Arikada's bodyguards without using chakra.
       * Beating us all in that game of EN!Risk (include Team Keiten).
       * An image of us all (Akane included) with her in the middle (this should be in the center).
-    * Combine seal fragments/pieces into the drawing.
-      * Don't use chakra ink. Duh.
-      * From close up the drawing should be a bunch of seals worked together; when viewed from farther away the seal cluster transforms into depictions of Keiko.
-      * If possible, design the drawing such that viewing it from different angles gives a different image (so viewing from below gives Keiko and the steelbacks; viewing from above gives her fighting Arikada's bodyguards), with the other images as background "seals".
 * Potential Issues:
   * Kagome-sensei might panic/blow up Hazo at the idea of using sealing fragments
   * Keiko might be depressed by gift showing her in less than favorable light.
