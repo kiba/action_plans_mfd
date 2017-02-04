@@ -14,6 +14,25 @@ Goals:
 Methods:
 ===
 
+### Non-Scene Spare Time Hazo (COMPLETELY OPTIONAL)
+
+* Goal: To increase access for Hazo to hivemind's scientific knowledge to better acqure COSMIC POWER.
+* Steps:
+  * Begin taking notes on the natural world.
+  * Ponder ideas about the nature of reality.
+  * If possible, conduct experiment.
+* Supporting Information:
+  * It is not necessary for the QM to write out this scene, and may be skipped or omitted at QM's pleasure.
+  * The QM may inform of development.
+  * Notetaking is done in his spare time, not to interfere with missions and other duties.
+  * Sapre time is most likely near bedtime or at dawn.
+  * See [Science](http://markedfordeath.wikia.com/wiki/Science) for potential discoveries Hazo might make.
+* Potential Issues
+  * Lack of access to EN's knowledgebase.
+    * Unfortuantely, this cannot be fixed easily, unless more books are brought.
+  * Hazo got misleading or wrong answers to questions.
+    * Can be fixed easily enough if QM informs us what he thought.
+
 ### **Scene Inoue-sensei**
 
 * Goal: Finish the conversation with Inoue-sensei.
