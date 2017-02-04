@@ -15,7 +15,7 @@ Methods:
 
 ### **Scene Inoue-sensei**
 
-
+* Goal: Finish the conversation with Inoue-sensei.
 * Steps:
   * Explain to her that it isn't her fault.
   * Analyze the "Join Konoha" question.
@@ -65,6 +65,7 @@ Methods:
 
 ### Scene Gift for Keiko
 
+* Goal
 Contingencies
 ===
 
