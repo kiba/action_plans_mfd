@@ -20,7 +20,7 @@ Methods:
 * Steps:
   * Begin taking notes on the natural world.
   * Ponder ideas about the nature of reality.
-  * If possible, conduct experiment.
+  * If possible, conduct experiments.
 * Supporting Information:
   * It is not necessary for the QM to write out this scene, and may be skipped or omitted at QM's pleasure.
   * The QM may inform us of Hazo's ideas.
@@ -38,8 +38,8 @@ Methods:
 * Goal: Finish the conversation with Inoue-sensei.
 * Steps:
   * Explain to her that it isn't her fault.
-  * Analyze the "Join Konoha" question.
-  * Make a reply: Will not commit to anything yet. Need more time.
+  * Analyze the "Join Konoha" question. Consider both the Pros and Cons.
+  * Make a reply: Will not commit to anything yet. Need more time and actual team discussion.
 * Supporting Information:
   * Consider the political question from all angle.
   * State that the pro are pretty good.
@@ -62,8 +62,7 @@ Methods:
       * Hazou know how much she cares about Hazou and the team.
       * Hug her.
       * Ruffle her hair (this time).
-   
-  * Explain possible reasons why it might not be good.
+  * Explain the Cons
     * Kagome will be anxious about returning to Konoha so soon.
     * Yagura will get mad
       * Mist will go to war with Leaf, which we do not want.
