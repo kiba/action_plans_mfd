@@ -40,7 +40,7 @@ Methods:
 * Possible Issues:
  * Inoue-sensei might get puzzled about the political analysis.
  * Inoue-sensei might decide to kill us depending on our answer.
-  * Unlikely. Also, extremely silly.
+   * Unlikely. Also, extremely silly.
 
 ### Scene Noburi
 
