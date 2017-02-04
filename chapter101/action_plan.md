@@ -44,6 +44,24 @@ Methods:
 
 ### Scene Noburi
 
+* Goal: We want to help Noburi finish his medical training safely.
+* Steps:
+    * Let Noburi know we are supportive of his ambitions as a medic-nin and that we want to help him on that path
+    * Discuss potential issues, and how we might address them
+    * Do NOT suggest Noburi should not go. Suggest that we should be extra cautious.
+* Supporting Information:
+* Potential Issues
+    * Hashimoto might not want to teach Noburi
+      * Ask Noburi what things Hashimoto might want (ryo, Macerators...) and offer to help with getting these things.
+    * Hunter-nin might notice Noburi and/or his barrel.
+      * Bring up Noburi disguising his barrel as a travel sack or appropriate covering.
+      * Suggest Noburi obfuscate his movement through clever Henge use:
+        * Noburi + Inoue go to Hashimoto's.
+          * When Noburi leaves, Inoue creates a Water Clone Henge'd as Noburi.
+          * Inoue & clone leave.
+          * Repeat when Noburi leaves (at a set time?).
+
+
 ### Scene Gift for Keiko
 
 Contingencies
