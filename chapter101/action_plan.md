@@ -153,7 +153,11 @@ Methods:
     * It should be within Hazo's skill level.
   * Seal and technology work, listed in order of desirability. Spend time researching or discussing, depending on idea:
     1. Research alarm seals and Banshee seals
-    2. The [Zeppelin Project](http://markedfordeath.wikia.com/wiki/Zeppelin).
+    2. Macerator 3.0
+      * Shear force to ≥ 35,000 mPa
+      * Priority velocity to ≥ 300 m/s
+      * Combine with PMYF.
+    3. The [Zeppelin Project](http://markedfordeath.wikia.com/wiki/Zeppelin).
       * Start with basic hot air balloon.
         * Acquiring heatproof fabric (or equivalent) for balloon.
         * We know shops sell fabrics, but there may be a more convenient source.
@@ -162,13 +166,9 @@ Methods:
         * Consider safety protocols for final use; should overlap with Skywalker rules.
         * Outline potential seals for fancy variants.
       * Explain using ancedotes and examples such as the jump and sky lanterns.
-    3. Ask about the feasibility of Spider Yoyos
+    4. Ask about the feasibility of Spider Yoyos
       * Preferably timer-based versions of Skywalkers on throwable wires, so you can Spiderman around.
       * Alternatively, put them on long, rigid rods if stability can't be worked out for wires.
-    4. Macerator 3.0
-      * Shear force to ≥ 35,000 mPa
-      * Priority velocity to ≥ 300 m/s
-      * Combine with PMYF.
     5. [Poor Man's Shadow Clone Shuriken](https://forums.sufficientvelocity.com/threads/marked-for-death-a-rational-naruto-quest.24481/page-1563#post-7745502)
     6. Bazooka: Longe range AoE weapon
       * Use a modified version of the unidirectional explosive seal to propel projectiles.
