@@ -51,7 +51,7 @@ Methods:
       * She was intelligent enough to engineer the game of ninja!Risk to improve relationships with the Konoha kids.
       * Keeping the team together despite all of Hazou's screwups.
     * Show how our screwup wasn't her fault:
-      * Point out her ability to manipulate everyone was such that Jiraiya wouldn't let her talk.
+      *  Point out that her diplomatic ability is so great that Jiraiya wouldn't let Mari-sensei speak out and immediately bail Hazo out of the situation.
       * No one is capable of predicting every response: Mari's not God/Kami and couldn't have predicted how utterly stupid we would be.
     * We still need her.
       * She's an amazing teacher.
