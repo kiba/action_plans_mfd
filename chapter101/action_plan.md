@@ -7,7 +7,7 @@
 Goals:
 ===
   * Survive.
-  * Tell Inoue-sensei this isn't her fault.
+  * Cheer up, Inoue-sensei
   * Respond to the "Join Konoha" question.
   * Make a good present for Keiko.
 
@@ -36,55 +36,70 @@ Methods:
   * Hazo got misleading or wrong answers to questions.
     * Can be fixed easily enough if QM informs us what he thought.
 
+
 ### **Scene Inoue-sensei**
 
-* Goal: Finish the conversation with Inoue-sensei.
+* Goals:
+  * Finish the conversation with Inoue-sensei.
+  * Get back to her on Konoha.
 * Steps:
   * [Explain to her that it isn't her fault](https://forums.sufficientvelocity.com/posts/7817981/).
-  * Analyze the "Join Konoha" question. Consider both the Pros and Cons.
-  * Make a reply: Will not commit to anything yet. Need more time and actual team discussion.
+  * Say you'll think about Konoha, but
+    * that you need to think about it and
+    * will only do so if it's in the **whole** team's best interest.
+  * Get back to her on Konoha at a later date.
+     * Analyze the "Join Konoha" question. Consider both the Pros and Cons.
+     * Will not commit to anything yet. Need actual team discussion.
+     * Does not have to happen this update.
 * Supporting Information:
-  * Consider the political question from all angle.
-  * State that the pro are pretty good.
-  * Explain the Cons
-    * Kagome will be anxious about returning to Konoha so soon.
-    * Yagura will get mad
-      * Mist will go to war with Leaf, which we do not want.
-      * OOC: Given the war that may or may not come soon, this may be a non-issue.
-    * Kagome and Hazo are innovative, if not dangerous, sealmasters.
-      * Leaf will take our threats very seriously, if they weren't before. A Freudian slip will likely kill us horribly.
-      * Hazo has zero political skills and little social grace.
-    * Leaf may choose to take Skywalker seals and kill us to keep us from falling into enemy hands/betraying Konoha.
-      * Staying in Konoha mitigates this somewhat.
-      * The anti-us faction (who Jiraiya was pushing against) may try to assassinate us for this reason.
-    * Leaf becomes absurdly more powerful because they gain (near-)undisputed aerial control.
-      * Will making Leaf absurdly powerful help Hazou's dream?
-      * Won't prevent WW4 from breaking out.
-      * Won't guarantee a merciful Leaf.
-    * Leaf might not actually be all nice.
-      * Example: That Hyuga brat from team Gai
-      * Leaf showed us only what they want us to see.
-      * Leaf might have a dark underbelly that we did not get to see.
-    * Unexplored Options:
-      * Hidden Mountain: Keiko might has a way in as the Pangolin summoner.
-      * Bargaining for something else other than citizenship.
-      * Leave the EN altogether.
-      * Establishing Hidden Heaven
-    * Mori and Wakahisa clans will hate Keiko and Noburi.
-      * Both of them really do care about their clans. Unlike us; we just care about mummy.
-      * We have to run this with them anyway; if they don't accept we aren't doing it anyway.
+  * On Konoha:
+    * Consider the political question from all angle.
+    * State that the pros are pretty good.
+    * Explain the Cons
+      * Needs to be in everyone's interest
+        * Not interested in disbanding the team, or abandoning Inoue
+        * Kagome will be anxious about returning to Konoha so soon.
+        * Risky for Kagome and Hazō, being dangerous sealmasters.
+          * Leaf will take our threats very seriously, if they weren't before.
+          * People make mistakes occasionally; Hazō does frequently.
+      * Does making Leaf powerful help our long-term goals?
+        * They gain near-undisputed aerial control, which will unbalance things.
+        * Leaf might not actually be all nice.
+          * Example: That Hyuga brat from team Gai
+          * Leaf showed us only what they want us to see.
+          * Leaf might have a dark underbelly that we did not get to see.
+        * Leaf may consider us too risky to be nice to
+          * Could end up dead.
+          * Staying in Konoha mitigates this somewhat.
+          * May be assasinated by anti-us factions.
+        * Won't prevent WW4 from breaking out.
+        * Won't guarantee a merciful Leaf.
+        * Will make it hard to fix corruption in Leaf, eg. Scorch Squads
+      * Yagura will get mad
+        * Mist will go to war with Leaf, which we do not want.
+        * OOC: Given the war that may or may not come soon, this may be a non-issue.
+      * Unexplored Options:
+        * Hidden Mountain: Keiko might has a way in as the Pangolin summoner.
+        * Bargaining for something else other than citizenship.
+        * Leave the EN altogether.
+        * Establishing Hidden Heaven
+      * Mori and Wakahisa clans will hate Keiko and Noburi.
+        * Both of them really do care about their clans. Unlike us; we just care about mummy.
+        * We have to run this with them anyway; if they don't accept we aren't doing it anyway.
 * Possible Issues:
  * Inoue-sensei might get puzzled about the political analysis.
  * Inoue-sensei might decide to kill us depending on our answer.
    * Unlikely. Also, extremely silly.
 
+
 ### Scene Noburi
 
 * Goal: We want to help Noburi finish his medical training safely.
 * Steps:
-    * Let Noburi know that Hazo is supportive of his ambitions as a medic-nin and that we want to help him on that path
-    * Discuss potential issues, and how we might address them
-    * Do NOT suggest Noburi should not go. Suggest that we should be extra cautious.
+    * Let Noburi know that Hazo is supportive of his ambitions as a medic-nin and that we want to help him on that path.
+    * Don't spend much time on this before the team Leaf discussion in a later update, since we might not go to Hashimoto.
+    * Discuss potential issues, and how we might address them.
+    * Suggest that we should be cautious.
 * Supporting Information:
 * Potential Issues
     * Hashimoto might not want to teach Noburi
@@ -111,49 +126,62 @@ Methods:
   * Gift Ideas:
     * Drawing.
     * Depictation on a whetstone.
-    * Choose one-three scenes from the list, ordered by what Hazo think is best.
+    * Choose one to three scenes from the list, ordered by what Hazo think is best.
       1. Retrieving the Pangolin summoning scroll and becoming the Pangolin summoner.
         * Emphasis on her overcoming obstacles.
+        * Depict the scene after she comes back with Pandaa (ask Kagome's help with this).
       2. Beating us all in that game of EN!Risk (include Team Keiten).
       3. An image of us all (Akane included) with her in the middle (this should be in the center).
       4. Terrifying the shit out of the Irie and Hinago patrols.
-      5. Skewering Arikada's bodyguards without using chakra.
-      6. Cleanly decapitating the steelback back in Swampland.
+      5. Taking down Arikada's bodyguards without using chakra.
 
 * Potential Issues:
   * Kagome-sensei might panic/blow up Hazo at the idea of using sealing fragments
   * Keiko might be depressed by gift showing her in less than favorable light.
     * Use CCnJ to show why this is not the case.
 
-### Scene: Sealing Projects
+
+### Scene Sealing Projects
 
 * Goal: Do more sealing research
 * Steps:
-    * Finish the Skywalker project if it isn't already. (including safety protocol, safety engineering, safety testing, etc)
-    * Choose the next sealing project and work on that.
+  * Finish the Skywalker project if it isn't already. (including safety protocol, safety engineering, safety testing, etc)
+  * Choose the next sealing project and work on that.
 * Supporting Information:
-   * Have the team/Kagome pick and choose projects
-      * Ideally, it should have the maxmium reward while still fast enough to develop before the next mission.
-      * It should be within Hazo's skill level.
-   * Seal ideas(listed in order of desirability):
-      1. Bazooka: Longe range AoE weapon
-         * Use a modified version of the unidirectional explosive seal to propel projectiles.
-         * If flexible material available, 5SB variant is feasible:
-            * This is to protect the barrel during firing.
-            * A separate flat platform from bazooka itself to allow quick sealing before shooting,
-            * Hang flexible frame inside rigid exoskeleton, with an excess square off bottom with the 5SB preplaced
-            * Need not be particularly gun-shaped or bazooka shape.
-      2. Gun: Smaller cousin, less collateral damage
-         * See the Bazooka for detail
-      3. Advanced PMYF Macerators with payloads (for smokebombs, flashbangs, pepper spray).
-        * Note: We have to research making the Macerator seals with PMYF function.
-      4. [Poor Man's Shadow Clone Shuriken](https://forums.sufficientvelocity.com/threads/marked-for-death-a-rational-naruto-quest.24481/page-1563#post-7745502)
-      5. The [Zeppelin Project](http://markedfordeath.wikia.com/wiki/Zeppelin).
-        * Do small scale prototype. Focus on hot air balloons.
-        * Make wind tunnels for testing and experimental control.
-        * Explain using ancedotes and examples such as the jump and sky lanterns.
- * Potential Issues:
- 
+  * Have the team/Kagome pick and choose projects
+    * Ideally, it should have the maxmium reward while still fast enough to develop before the next mission.
+    * It should be within Hazo's skill level.
+  * Seal and technology work, listed in order of desirability. Spend time researching or discussing, depending on idea:
+    1. Research alarm seals and Banshee seals
+    2. Macerator 3.0
+      * Shear force to ≥ 35,000 mPa
+      * Priority velocity to ≥ 300 m/s
+      * Combine with PMYF.
+    3. The [Zeppelin Project](http://markedfordeath.wikia.com/wiki/Zeppelin).
+      * Start with basic hot air balloon.
+        * Acquiring heatproof fabric (or equivalent) for balloon.
+        * We know shops sell fabrics, but there may be a more convenient source.
+        * Safely producing heat.
+        * Consider rigid frame variants, or contained ones that require less active heating.
+        * Consider safety protocols for final use; should overlap with Skywalker rules.
+        * Outline potential seals for fancy variants.
+      * Explain using ancedotes and examples such as the jump and sky lanterns.
+    4. Ask about the feasibility of Spider Yoyos
+      * Preferably timer-based versions of Skywalkers on throwable wires, so you can Spiderman around.
+      * Alternatively, put them on long, rigid rods if stability can't be worked out for wires.
+    5. [Poor Man's Shadow Clone Shuriken](https://forums.sufficientvelocity.com/threads/marked-for-death-a-rational-naruto-quest.24481/page-1563#post-7745502)
+    6. Bazooka: Longe range AoE weapon
+      * Use a modified version of the unidirectional explosive seal to propel projectiles.
+      * If flexible material available, 5SB variant is feasible:
+        * This is to protect the barrel during firing.
+        * A separate flat platform from bazooka itself to allow quick sealing before shooting,
+        * Hang flexible frame inside rigid exoskeleton, with an excess square off bottom with the 5SB preplaced
+        * Need not be particularly gun-shaped or bazooka shape.
+    7. Gun: Smaller cousin, less collateral damage
+      * See the Bazooka for detail
+    8. Advanced PMYF Macerators with payloads (for smokebombs, flashbangs, pepper spray).
+      * Note: We have to research making the Macerator seals with PMYF function.
+
       
 Contingencies
 ===
