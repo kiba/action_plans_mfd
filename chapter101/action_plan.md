@@ -37,31 +37,12 @@ Methods:
 
 * Goal: Finish the conversation with Inoue-sensei.
 * Steps:
-  * Explain to her that it isn't her fault.
+  * [Explain to her that it isn't her fault](https://forums.sufficientvelocity.com/posts/7817981/).
   * Analyze the "Join Konoha" question. Consider both the Pros and Cons.
   * Make a reply: Will not commit to anything yet. Need more time and actual team discussion.
 * Supporting Information:
   * Consider the political question from all angle.
   * State that the pro are pretty good.
-  * Reasons why it isn't her fault:
-    * Refer to her as Mari-sensei. 
-    * List success of her teaching.
-      * Showing Hazou how to lead subtly (e.g., when Noburi was leader).
-      * Getting Hazou to test Liberator-nin via spars brought Akane into the group.
-      * She was intelligent enough to engineer the game of ninja!Risk to improve relationships with the Konoha kids.
-      * Keeping the team together despite all of Hazou's screwups.
-    * Show how our screwup wasn't her fault:
-      *  Point out that her diplomatic ability is so great that Jiraiya wouldn't let Mari-sensei speak out and immediately bail Hazo out of the situation.
-      * No one is capable of predicting every response: Mari's not God/Kami and couldn't have predicted how utterly stupid we would be.
-    * We still need her.
-      * She's an amazing teacher.
-      * We need her help more than ever now.
-      * Even if we join Leaf, we'd still trust her to teach us.
-      * Even if she retires, she's still more than just our leader or just our teacher. She's family.
-    * Show affection
-      * Hazou know how much she cares about Hazou and the team.
-      * Hug her.
-      * Ruffle her hair (this time).
   * Explain the Cons
     * Kagome will be anxious about returning to Konoha so soon.
     * Yagura will get mad
