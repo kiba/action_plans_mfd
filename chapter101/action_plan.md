@@ -21,12 +21,13 @@ Methods:
   * Begin taking notes on the natural world.
   * Ponder ideas about the nature of reality.
   * If possible, conduct experiment.
-* Supporting Information:
+* [spoiler="Supporting Information"]
   * It is not necessary for the QM to write out this scene, and may be skipped or omitted at QM's pleasure.
   * The QM may inform of development.
   * Notetaking is done in his spare time, not to interfere with missions and other duties.
   * Sapre time is most likely near bedtime or at dawn.
   * See [Science](http://markedfordeath.wikia.com/wiki/Science) for potential discoveries Hazo might make.
+  [/spoiler]
 * Potential Issues
   * Lack of access to EN's knowledgebase.
     * Unfortuantely, this cannot be fixed easily, unless more books are brought.
@@ -40,7 +41,7 @@ Methods:
   * Explain to her that it isn't her fault.
   * Analyze the "Join Konoha" question.
   * Make a reply: Will not commit to anything yet. Need more time.
-* Supporting Information:
+* [spoiler="Supporting Information"]
   * Consider the political question from all angle.
   * State that the pro are pretty good.
   * Possible reasons why it isn't her fault:
@@ -52,7 +53,6 @@ Methods:
     * Even if Leaf worked out, the team still need Mari.
       * Emphasis famial or famial-relations, along with Mari-sensei's leadership and teacher status.
       * She is needed to navigate the Leaf political landscape.
-   
   * Explain possible reasons why it might not be good.
     * Kagome will be anxious about returning to Konoha so soon.
     * Yagura will get mad
@@ -80,6 +80,7 @@ Methods:
     * Mori and Wakahisa clans will hate Keiko and Noburi.
       * Both of them really do care about their clans. Unlike us; we just care about mummy.
       * We have to run this with them anyway; if they don't accept we aren't doing it anyway.
+ [/spoiler]
 * Possible Issues:
  * Inoue-sensei might get puzzled about the political analysis.
  * Inoue-sensei might decide to kill us depending on our answer.
@@ -92,8 +93,7 @@ Methods:
     * Let Noburi know that Hazo is supportive of his ambitions as a medic-nin and that we want to help him on that path
     * Discuss potential issues, and how we might address them
     * Do NOT suggest Noburi should not go. Suggest that we should be extra cautious.
-* Supporting Information:
-* Potential Issues
+* [spoiler="Potential Issues"]
     * Hashimoto might not want to teach Noburi
       * Ask Noburi what things Hashimoto might want (ryo, Macerators...) and offer to help with getting these things.
     * Hashimoto might reject Noburi completely no matter the rewards.
@@ -114,7 +114,7 @@ Methods:
   * Brainstorm gift idea with the team.
   * Build it.
   * Gift it.
-* Suppporting Information:
+* [spoiler="Gift Ideas"]
   * Gift Ideas:
     * Make a drawing of badass things Keiko's done since we've first mets:
       * Cleanly decapitating the steelback back in Swampland.
@@ -131,6 +131,7 @@ Methods:
   * Kagome-sensei might panic/blow up Hazo at the idea of using sealing fragments
   * Keiko might be depressed by gift showing her in less than favorable light.
     * Use CCnJ to show why this is not the case.
+  [/spoiler]
 
 ### Scene: Sealing Projects
 
@@ -138,7 +139,7 @@ Methods:
 * Steps:
     * Finish the Skywalker project if it isn't already. (including safety protocol, safety engineering, safety testing, etc)
     * Choose the next sealing project and work on that.
-* Supporting Information:
+* [spoiler="Supporting Information"]
    * Have the team/Kagome pick and choose projects
       * Ideally, it should have the maxmium reward while still fast enough to develop before the next mission.
       * It should be within Hazo's skill level.
@@ -159,8 +160,7 @@ Methods:
         * Do small scale prototype. Focus on hot air balloons.
         * Make wind tunnels for testing and experimental control.
         * Explain using ancedotes and examples such as the jump and sky lanterns.
- * Potential Issues:
- 
+  [/spoiler]
       
 Contingencies
 ===
