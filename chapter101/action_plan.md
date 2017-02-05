@@ -27,7 +27,7 @@ Methods:
   * Notetaking is done in his spare time, not to interfere with missions and other duties.
   * Sapre time is most likely near bedtime or at dawn.
   * See [Science](http://markedfordeath.wikia.com/wiki/Science) for potential discoveries Hazo might make.
-* [/spoiler]
+[/spoiler]
 * Potential Issues
   * Lack of access to EN's knowledgebase.
     * Unfortuantely, this cannot be fixed easily, unless more books are brought.
@@ -80,7 +80,7 @@ Methods:
     * Mori and Wakahisa clans will hate Keiko and Noburi.
       * Both of them really do care about their clans. Unlike us; we just care about mummy.
       * We have to run this with them anyway; if they don't accept we aren't doing it anyway.
-* [/spoiler]
+[/spoiler]
 * Possible Issues:
  * Inoue-sensei might get puzzled about the political analysis.
  * Inoue-sensei might decide to kill us depending on our answer.
@@ -105,7 +105,7 @@ Methods:
           * When Noburi leaves, Inoue creates a Water Clone Henge'd as Noburi.
           * Inoue & clone leave.
           * Repeat when Noburi leaves (at a set time?).
-* [/spoiler]
+[/spoiler]
 
 ### Scene Gift for Keiko
 
@@ -127,11 +127,12 @@ Methods:
       * Don't use chakra ink. Duh.
       * From close up the drawing should be a bunch of seals worked together; when viewed from farther away the seal cluster transforms into depictions of Keiko.
       * If possible, design the drawing such that viewing it from different angles gives a different image (so viewing from below gives Keiko and the steelbacks; viewing from above gives her fighting Arikada's bodyguards), with the other images as background "seals".
-* Potential Issues:
+[/spoiler]
+* [spoiler="Potential Issues"]
   * Kagome-sensei might panic/blow up Hazo at the idea of using sealing fragments
   * Keiko might be depressed by gift showing her in less than favorable light.
     * Use CCnJ to show why this is not the case.
-* [/spoiler]
+[/spoiler]
 
 ### Scene: Sealing Projects
 
@@ -160,8 +161,8 @@ Methods:
         * Do small scale prototype. Focus on hot air balloons.
         * Make wind tunnels for testing and experimental control.
         * Explain using ancedotes and examples such as the jump and sky lanterns.
-* [/spoiler]
-      
+[/spoiler]
+
 Contingencies
 ===
 
