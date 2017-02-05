@@ -109,13 +109,17 @@ Methods:
   * Gift it.
 * Suppporting Information:
   * Gift Ideas:
-    * Make a drawing of one to three scenes choosen from the list:
-      * Cleanly decapitating the steelback back in Swampland.
-      * Retrieving the Pangolin summoning scroll and becoming the Pangolin summoner.
-      * Terrifying the shit out of the Irie and Hinago patrols.
-      * Skewering Arikada's bodyguards without using chakra.
-      * Beating us all in that game of EN!Risk (include Team Keiten).
-      * An image of us all (Akane included) with her in the middle (this should be in the center).
+    * Drawing.
+    * Depictation on a whetstone.
+    * Choose one-three scenes from the list, ordered by what Hazo think is best.
+      1. Retrieving the Pangolin summoning scroll and becoming the Pangolin summoner.
+        * Emphasis on her overcoming obstacles.
+      2. Beating us all in that game of EN!Risk (include Team Keiten).
+      3. An image of us all (Akane included) with her in the middle (this should be in the center).
+      4. Terrifying the shit out of the Irie and Hinago patrols.
+      5. Skewering Arikada's bodyguards without using chakra.
+      6. Cleanly decapitating the steelback back in Swampland.
+
 * Potential Issues:
   * Kagome-sensei might panic/blow up Hazo at the idea of using sealing fragments
   * Keiko might be depressed by gift showing her in less than favorable light.
