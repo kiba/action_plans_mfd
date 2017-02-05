@@ -21,7 +21,7 @@ Methods:
   * Begin taking notes on the natural world.
   * Ponder ideas about the nature of reality.
   * If possible, conduct experiments.
-* Supporting Information:
+* Supporting Information: [spoiler]
   * It is not necessary for the QM to write out this scene, and may be skipped or omitted at QM's pleasure.
   * The QM may inform us of Hazo's ideas.
   * Notetaking is a new quirk/habit he took up.
@@ -29,7 +29,7 @@ Methods:
     * No mission-sensitive info should show up on that notes.
     * Only shown in appropriate context(IE, not on infiltration mission or when he's debriefing and so on).
   * Sapre time is most likely near bedtime or at dawn.
-  * See [Science](http://markedfordeath.wikia.com/wiki/Science) for potential discoveries Hazo might make.
+  * See [Science](http://markedfordeath.wikia.com/wiki/Science) for potential discoveries Hazo might make. [/spoiler]
 * Potential Issues
   * Lack of access to EN's knowledgebase.
     * Unfortuantely, this cannot be fixed easily, unless more books are brought.
@@ -51,7 +51,7 @@ Methods:
      * Analyze the "Join Konoha" question. Consider both the Pros and Cons.
      * Will not commit to anything yet. Need actual team discussion.
      * Does not have to happen this update.
-* Supporting Information:
+* Supporting Information: [spoiler]
   * On Konoha:
     * Consider the political question from all angle.
     * State that the pros are pretty good.
@@ -85,7 +85,7 @@ Methods:
         * Establishing Hidden Heaven
       * Mori and Wakahisa clans will hate Keiko and Noburi.
         * Both of them really do care about their clans. Unlike us; we just care about mummy.
-        * We have to run this with them anyway; if they don't accept we aren't doing it anyway.
+        * We have to run this with them anyway; if they don't accept we aren't doing it anyway. [/spoiler]
 * Possible Issues:
  * Inoue-sensei might get puzzled about the political analysis.
  * Inoue-sensei might decide to kill us depending on our answer.
@@ -100,8 +100,7 @@ Methods:
     * Don't spend much time on this before the team Leaf discussion in a later update, since we might not go to Hashimoto.
     * Discuss potential issues, and how we might address them.
     * Suggest that we should be cautious.
-* Supporting Information:
-* Potential Issues
+* Supporting Information; Potential Issues [spoiler]
     * Hashimoto might not want to teach Noburi
       * Ask Noburi what things Hashimoto might want (ryo, Macerators...) and offer to help with getting these things.
     * Hashimoto might reject Noburi completely no matter the rewards.
@@ -112,7 +111,7 @@ Methods:
         * Noburi + Inoue go to Hashimoto's.
           * When Noburi leaves, Inoue creates a Water Clone Henge'd as Noburi.
           * Inoue & clone leave.
-          * Repeat when Noburi leaves (at a set time?).
+          * Repeat when Noburi leaves (at a set time?). [/spoiler]
 
 
 ### Scene Gift for Keiko
@@ -122,7 +121,7 @@ Methods:
   * Brainstorm gift idea with the team.
   * Build it.
   * Gift it.
-* Suppporting Information:
+* Suppporting Information: [spoiler]
   * Gift Ideas:
     * Drawing.
     * Depictation on a whetstone.
@@ -133,8 +132,7 @@ Methods:
       2. Beating us all in that game of EN!Risk (include Team Keiten).
       3. An image of us all (Akane included) with her in the middle (this should be in the center).
       4. Terrifying the shit out of the Irie and Hinago patrols.
-      5. Taking down Arikada's bodyguards without using chakra.
-
+      5. Taking down Arikada's bodyguards without using chakra. [/spoiler]
 * Potential Issues:
   * Kagome-sensei might panic/blow up Hazo at the idea of using sealing fragments
   * Keiko might be depressed by gift showing her in less than favorable light.
@@ -147,7 +145,7 @@ Methods:
 * Steps:
   * Finish the Skywalker project if it isn't already. (including safety protocol, safety engineering, safety testing, etc)
   * Choose the next sealing project and work on that.
-* Supporting Information:
+* Supporting Information: [spoiler]
   * Have the team/Kagome pick and choose projects
     * Ideally, it should have the maxmium reward while still fast enough to develop before the next mission.
     * It should be within Hazo's skill level.
@@ -180,7 +178,7 @@ Methods:
     7. Gun: Smaller cousin, less collateral damage
       * See the Bazooka for detail
     8. Advanced PMYF Macerators with payloads (for smokebombs, flashbangs, pepper spray).
-      * Note: We have to research making the Macerator seals with PMYF function.
+      * Note: We have to research making the Macerator seals with PMYF function. [/spoiler]
 
       
 Contingencies
