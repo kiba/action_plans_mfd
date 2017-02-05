@@ -147,20 +147,20 @@ Methods:
    * Have the team/Kagome pick and choose projects
       * Ideally, it should have the maxmium reward while still fast enough to develop before the next mission.
       * It should be within Hazo's skill level.
-   * Seal ideas:
-      * Bazooka: Longe range AoE weapon
+   * Seal ideas(listed in order of desirability):
+      1. Bazooka: Longe range AoE weapon
          * Use a modified version of the unidirectional explosive seal to propel projectiles.
          * If flexible material available, 5SB variant is feasible:
             * This is to protect the barrel during firing.
             * A separate flat platform from bazooka itself to allow quick sealing before shooting,
             * Hang flexible frame inside rigid exoskeleton, with an excess square off bottom with the 5SB preplaced
             * Need not be particularly gun-shaped or bazooka shape.
-      * Gun: Smaller cousin, less collateral damage
+      2. Gun: Smaller cousin, less collateral damage
          * See the Bazooka for detail
-      * Advanced PMYF Macerators with payloads (for smokebombs, flashbangs, pepper spray).
+      3. Advanced PMYF Macerators with payloads (for smokebombs, flashbangs, pepper spray).
         * Note: We have to research making the Macerator seals with PMYF function.
-      * [Poor Man's Shadow Clone Shuriken](https://forums.sufficientvelocity.com/threads/marked-for-death-a-rational-naruto-quest.24481/page-1563#post-7745502)
-      * The [Zeppelin Project](http://markedfordeath.wikia.com/wiki/Zeppelin).
+      4. [Poor Man's Shadow Clone Shuriken](https://forums.sufficientvelocity.com/threads/marked-for-death-a-rational-naruto-quest.24481/page-1563#post-7745502)
+      5. The [Zeppelin Project](http://markedfordeath.wikia.com/wiki/Zeppelin).
         * Do small scale prototype. Focus on hot air balloons.
         * Make wind tunnels for testing and experimental control.
         * Explain using ancedotes and examples such as the jump and sky lanterns.
